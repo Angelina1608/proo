@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>My new site!</title>
-</head>
-<body>
 
-<center><h1>Hello!</h1>
-<p>Have a nice day!!!</p>
-<a href="https://www.youtube.com/watch?v=KJwYBJMSbPI">Click here and make your mood good!</a>
-</center>
-
-</body>
-</html>
